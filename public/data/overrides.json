@@ -1,0 +1,12 @@
+{
+  "_help": "Add one-off changes here. date is YYYY-MM-DD. Leave start/end out for the whole day. The reason is never shown on the public page.",
+  "overrides": [
+    {
+      "interpreter": "Nick",
+      "date": "2099-01-01",
+      "start": "10:00",
+      "end": "12:00",
+      "reason": "Example entry (a date in the far future, so it has no effect)"
+    }
+  ]
+}

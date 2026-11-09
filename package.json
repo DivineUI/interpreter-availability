@@ -1,0 +1,11 @@
+{
+  "name": "interpreter-availability",
+  "version": "1.0.0",
+  "description": "Scan a QR code to see which interpreters are free right now and when they are next free (8am-5pm).",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve public -l 3000",
+    "test": "node --test tests/availability.test.js"
+  },
+  "license": "MIT"
+}

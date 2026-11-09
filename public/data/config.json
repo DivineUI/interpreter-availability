@@ -1,0 +1,9 @@
+{
+  "title": "Interpreter Availability",
+  "timezone": "Africa/Accra",
+  "workStart": "08:00",
+  "workEnd": "17:00",
+  "workDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+  "minGapMinutes": 20,
+  "refreshSeconds": 30
+}

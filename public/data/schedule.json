@@ -1,0 +1,565 @@
+{
+  "interpreters": [
+    "Elsie",
+    "Francis",
+    "Mustapha",
+    "Nick"
+  ],
+  "assignments": [
+    {
+      "interpreter": "Nick",
+      "day": "Monday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Monday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Monday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Precalculus 2"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Monday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Investments"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Monday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Monday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Algorithm Design And Analysis"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Monday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Language for Law"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Monday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "Financial Accounting"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Capstone Seminar"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Undergraduate Thesis 1"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Legal Reasoning"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Monday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Statistics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Monday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Legal Writing"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Precalculus 2"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Object- Oriented Programming (Cs213)"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Operating Systems"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Tuesday",
+      "start": "09:45",
+      "end": "11:15",
+      "course": "Leadership Seminar 1"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Tuesday",
+      "start": "09:45",
+      "end": "11:15",
+      "course": "Competitive Strategy"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Tuesday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Language for Law"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Tuesday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "Statistics"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Introduction to African Studies"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Legal Reasoning"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Tuesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Data Science"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Tuesday",
+      "start": "13:45",
+      "end": "14:45",
+      "course": "Macroeconomics"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Tuesday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Algorithm Design And Analysis"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Tuesday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Legal Writing"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Precalculus 2"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Principles Of Microeconomics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Investments"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Wednesday",
+      "start": "09:45",
+      "end": "11:15",
+      "course": "Leadership Seminar 1"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Wednesday",
+      "start": "09:45",
+      "end": "11:15",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Wednesday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Language for Law"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Wednesday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "Financial Accounting"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Applied Calculus"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Legal Reasoning"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Undergraduate Thesis 1"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Wednesday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Macroeconomics"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Wednesday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Macroeconomics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Wednesday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Legal Writing"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Object- Oriented Programming (Cs213)"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Operating Systems"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Thursday",
+      "start": "09:45",
+      "end": "11:15",
+      "course": "Competitive Strategy"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Thursday",
+      "start": "09:45",
+      "end": "11:45",
+      "course": "Language for Law"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Thursday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "Statistics"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Introduction to African Studies"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Applied Calculus (Math 144)"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Macroeconomics"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Data Science"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Legal Reasoning"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Thursday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "Legal Writing"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Friday",
+      "start": "08:00",
+      "end": "09:00",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Friday",
+      "start": "08:00",
+      "end": "09:00",
+      "course": "Introduction to African Studies"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Friday",
+      "start": "08:30",
+      "end": "10:00",
+      "course": "Algorithms Design And Analysis"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Friday",
+      "start": "08:30",
+      "end": "10:00",
+      "course": "Language for Law"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Friday",
+      "start": "10:20",
+      "end": "11:50",
+      "course": "Object- Oriented Programming (Cs213)"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Friday",
+      "start": "10:20",
+      "end": "11:50",
+      "course": "Investments"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Friday",
+      "start": "10:20",
+      "end": "11:50",
+      "course": "Data Science"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Friday",
+      "start": "10:20",
+      "end": "11:20",
+      "course": "Financial Accounting"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "13:45",
+      "course": "Operating Systems"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "13:45",
+      "course": "Applied Calculus (Math 144)"
+    },
+    {
+      "interpreter": "Nick",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "13:45",
+      "course": "Competitive Strategy"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Friday",
+      "start": "12:15",
+      "end": "13:45",
+      "course": "Principles Of Economics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Friday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Legal Reasoning"
+    },
+    {
+      "interpreter": "Mustapha",
+      "day": "Friday",
+      "start": "13:55",
+      "end": "15:25",
+      "course": "Pre-Calculus 2"
+    },
+    {
+      "interpreter": "Elsie",
+      "day": "Friday",
+      "start": "13:55",
+      "end": "14:55",
+      "course": "Principles Of Macroeconomics"
+    },
+    {
+      "interpreter": "Francis",
+      "day": "Friday",
+      "start": "13:55",
+      "end": "14:55",
+      "course": "Legal Writing"
+    }
+  ],
+  "unassigned": [
+    {
+      "day": "Monday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Intro to Computing"
+    },
+    {
+      "day": "Monday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "College Algebra"
+    },
+    {
+      "day": "Monday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "Ashesi Success"
+    },
+    {
+      "day": "Tuesday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "College Algebra"
+    },
+    {
+      "day": "Tuesday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "FDE 1"
+    },
+    {
+      "day": "Tuesday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "WOC"
+    },
+    {
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "09:30",
+      "course": "Intro to Computing"
+    },
+    {
+      "day": "Wednesday",
+      "start": "11:30",
+      "end": "13:00",
+      "course": "College Algebra"
+    },
+    {
+      "day": "Wednesday",
+      "start": "13:50",
+      "end": "14:50",
+      "course": "WOC"
+    },
+    {
+      "day": "Thursday",
+      "start": "13:15",
+      "end": "14:45",
+      "course": "FDE 1"
+    },
+    {
+      "day": "Thursday",
+      "start": "15:00",
+      "end": "16:30",
+      "course": "WOC"
+    },
+    {
+      "day": "Friday",
+      "start": "08:00",
+      "end": "09:00",
+      "course": "FDE 1"
+    },
+    {
+      "day": "Friday",
+      "start": "10:20",
+      "end": "11:50",
+      "course": "Intro to Computing"
+    },
+    {
+      "day": "Friday",
+      "start": "13:55",
+      "end": "15:25",
+      "course": "College Algebra"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Print QR code</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="wrap">
+    <header class="top">
+      <h1>Scan to see who is free</h1>
+      <div class="clock noprint"><a href="./">&larr; Back to live view</a></div>
+    </header>
+    <div class="qrbox" id="qr" aria-label="QR code"></div>
+    <p id="urltext" class="clock"></p>
+    <div class="noprint">
+      <p>The QR code points to this address. If you are testing on localhost, replace it with your deployed link first.</p>
+      <input type="url" id="url" aria-label="Link for the QR code">
+      <p><button id="print" type="button">Print</button></p>
+    </div>
+  </main>
+  <script src="js/vendor/qrcode.js"></script>
+  <script src="js/qr.js"></script>
+</body>
+</html>

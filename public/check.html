@@ -1,11 +1,13 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Schedule check</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
   <main class="wrap" style="max-width: 960px">
     <header class="top">
@@ -14,17 +16,16 @@
     </header>
 
     <h2>Double-booked interpreters</h2>
-    <p class="clock">Same interpreter, overlapping classes. Fix these in the schedule, then rebuild the data.</p>
     <div id="conflicts" class="table-scroll"></div>
 
     <h2>Classes with no interpreter assigned</h2>
     <div id="unassigned" class="table-scroll"></div>
 
     <h2>Weekly free time (8:00 AM - 5:00 PM)</h2>
-    <p class="clock">Gaps shorter than the minimum are left out.</p>
     <div id="weekly" class="table-scroll"></div>
   </main>
   <script src="js/availability.js"></script>
   <script src="js/check.js"></script>
 </body>
+
 </html>
